@@ -1,0 +1,5 @@
+# Custom additions
+0.0.0.0 examplepornsite.com
+0.0.0.0 badcontent.net
+0.0.0.0 tracker.customads.org
+0.0.0.0 facebook.com
